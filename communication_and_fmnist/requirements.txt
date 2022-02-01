@@ -1,0 +1,8 @@
+Cython
+entmax
+h5py
+numpy
+pytorch-lightning==0.9.0
+tensorboard==2.2.0
+torch==1.6.0
+torchvision==0.7.0
