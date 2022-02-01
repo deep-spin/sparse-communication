@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+tqdm
+matplotlib
+entmax
+wandb
+tabulate
+scipy
