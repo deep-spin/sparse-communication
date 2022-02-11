@@ -15,7 +15,7 @@ We report experiments in three representation learning tasks: an emergent commun
 ```
 @inproceedings{farinhas2022sparse,
 title={Sparse Communication via Mixed Distributions},
-author={Ant{\'o}nio Farinhas and Wilker Aziz and Vlad Niculae and Andre Martins},
+author={Ant{\'o}nio Farinhas and Wilker Aziz and Vlad Niculae and Andr{\'e} F. T. Martins},
 booktitle={International Conference on Learning Representations},
 year={2022},
 url={https://openreview.net/forum?id=WAid50QschI}
