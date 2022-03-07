@@ -1,4 +1,5 @@
 VAEs with mixed random variables.
+The additional experiment on simplex-valued regression is in `notebooks/comparison-to-cc/`.
 
 # Dependencies
 

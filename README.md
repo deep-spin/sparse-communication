@@ -8,7 +8,7 @@ _Neural networks and other machine learning models compute continuous representa
 
 ## Code Organization
 
-We report experiments in three representation learning tasks: an emergent communication game, a bit-vector VAE modeling Fashion-MNIST images, and a mixed-latent VAE modeling MNIST images. You can find the code for the first two experiments in `communication_and_fmnist` and for the third in `vae_mnist`. Each folder contains an indivual README file describing how to reproduce our experiments. Our code is largely inspired by the structure and implementations found in [sparse-marginalization-lvm](https://github.com/deep-spin/sparse-marginalization-lvm), which was partially built upon [EGG](https://github.com/facebookresearch/EGG).
+We report experiments in three representation learning tasks: an emergent communication game, a bit-vector VAE modeling Fashion-MNIST images, and a mixed-latent VAE modeling MNIST images. Additionally, we report a fourth experiment -- regression towards voting proportions. You can find the code for the first two experiments in `communication_and_fmnist` and for the third and fourth in `vae_mnist_and_regression`. Each folder contains an indivual README file describing how to reproduce our experiments. Our code is largely inspired by the structure and implementations found in [sparse-marginalization-lvm](https://github.com/deep-spin/sparse-marginalization-lvm), which was partially built upon [EGG](https://github.com/facebookresearch/EGG).
 
 ## Citation
 
