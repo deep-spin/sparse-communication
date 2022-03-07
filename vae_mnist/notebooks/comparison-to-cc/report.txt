@@ -1,0 +1,28 @@
+Model                             RMSE     MAE
+------------------------------  ------  ------
+CC                              0.1124  0.0847
+Mixed Dir (sample mean)         0.1030  0.0774
+Mixed Dir (most probable mean)  0.0987  0.0740
+
+Data sparsity: 0s 0.22692307692307692
+
+Most probable mean (classification report for y > 0):
+              precision    recall  f1-score   support
+
+       False       0.94      0.88      0.91       590
+        True       0.97      0.98      0.97      2010
+
+    accuracy                           0.96      2600
+   macro avg       0.95      0.93      0.94      2600
+weighted avg       0.96      0.96      0.96      2600
+
+
+Sample mean (classification report for y > 0):
+              precision    recall  f1-score   support
+
+       False       0.99      0.81      0.89       590
+        True       0.95      1.00      0.97      2010
+
+    accuracy                           0.95      2600
+   macro avg       0.97      0.90      0.93      2600
+weighted avg       0.96      0.95      0.95      2600

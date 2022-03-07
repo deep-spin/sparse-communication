@@ -7,8 +7,8 @@ from torch.distributions.exp_family import ExponentialFamily
 from itertools import product
 from collections import Counter
 import numpy as np
-from bitvector import NonEmptyBitVector, MaxEntropyFaces
-from dirichlet import MaskedDirichlet
+from mixedrvs.bitvector import NonEmptyBitVector, MaxEntropyFaces
+from mixedrvs.dirichlet import MaskedDirichlet
 
 
 class MixedDirichlet(td.Distribution):

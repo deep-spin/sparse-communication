@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_probability
+pandas
+openpyxl
+tabulate
+sklearn
